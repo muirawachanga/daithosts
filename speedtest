@@ -38,4 +38,5 @@ ff02::3 ip6-allhosts
 # Hosts contributed by Steven Black
 
 0.0.0.0 speedtest.net
+0.0.0.0 .speedtest.net
 
